@@ -7,4 +7,5 @@ sentence-transformers
 chromadb
 faiss-cpu
 python-dotenv
-langchain-google-genai
+langchain-groq
+langchain-text-splitters
