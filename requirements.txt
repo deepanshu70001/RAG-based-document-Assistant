@@ -6,6 +6,7 @@ pymupdf
 sentence-transformers
 chromadb
 faiss-cpu
+FaissVectorStore
 python-dotenv
 langchain-groq
 langchain-text-splitters
